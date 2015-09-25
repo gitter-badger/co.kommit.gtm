@@ -2,6 +2,8 @@
 
 # Kommit Google Tag Manager Module
 
+[![Join the chat at https://gitter.im/kommitters/co.kommit.gtm](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kommitters/co.kommit.gtm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Description
 
 Connects to Google Tag Manager for dynamic tag management. v0.0.1
